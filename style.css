@@ -2,7 +2,7 @@
 
 :root {
   --primary-color: #212b78;
-  --secondary-color: #1e339ccb;
+  --secondary-color: #1e339ccb:
  
   --weak-color: #c9c192;
   --medium-color: #306040;
@@ -247,3 +247,4 @@ button:active {
     font-size: 0.9rem;
   }
 }
+
